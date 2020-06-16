@@ -1,5 +1,6 @@
 # padmini-machine learning 
 This only deals with image classifiacation, with there class dog , cat , panda . 
+TO USE:- clone my repository, download the dataset from the below given link , change the path for training and testing in the code, dowload the weights and change the weights path , and run the code 
 Few info  :-                                        
 DATASET-  Training- dog ,cat,panda each of 900 , total 2700                                     
 Testing - dog,cat panda each of 100 , total 300.                                                   
